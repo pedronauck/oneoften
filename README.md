@@ -27,7 +27,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Digesting JavaScript MVC (Addy Osmani)](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
   - [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ###### Design Patterns
 
@@ -36,7 +36,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Patterns of Large-Scale JavaScript Applications (Kim Joar Bekkelund)](https://speakerdeck.com/kimjoar/patterns-of-large-scale-javascript-applications-1)
   - [Non-blocking Javascript Patterns (George White)](https://speakerdeck.com/stonehippo/non-blocking-javascript-patterns)
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ###### Modular Javascript
 
@@ -44,7 +44,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
   - [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Articles
 
@@ -62,4 +62,4 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Kim Joar Bekkelund](https://twitter.com/kimjoar)
   - [Eduardo Shiotta](https://twitter.com/shiota)
 
-  **[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
