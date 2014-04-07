@@ -8,6 +8,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
     1. [Architecture](#architecture)
     1. [Design Patterns](#design-patterns)
     1. [Modular Javascript](#modular-javascript)
+  1. [Tools & Utils](#tools-&-utils)
   1. [Articles](#articles)
   1. [Courses](#courses)
   1. [Books](#books)
@@ -43,6 +44,17 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
   - [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
   - [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
+
+**[⬆ back to top](#table-of-contents)**
+
+## Tools & Utils
+
+  - [Superhero.js](http://superherojs.com/)
+  - [TodoMVC](http://todomvc.com/)
+  - [ScaleApp.org](http://scaleapp.org/)
+  - [Terrifically](http://terrifically.org)
+  - [Async](http://bredele.github.io/async/)
+  - [Yeoman](http://yeoman.io/)
 
 **[⬆ back to top](#table-of-contents)**
 
