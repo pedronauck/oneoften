@@ -4,7 +4,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 
 ## Table of Contents
 
-  1. [Presentations](#types)
+  1. [Presentations](#presentations)
     1. [Architecture](#architecture)
     1. [Design Patterns](#design-patterns)
     1. [Modular Javascript](#modular-javascript)
@@ -15,7 +15,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 
 ## Presentations
 
-### Architecture
+###### Architecture
 
   - [Scalable JavaScript Application Architecture 2012 (Nicholas C. Zakas)](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture-2012)
   - [Large-Scale JavaScript Development (Addy Osmani)](https://speakerdeck.com/addyosmani/large-scale-javascript-development)
@@ -27,18 +27,24 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Digesting JavaScript MVC (Addy Osmani)](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
   - [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
 
-### Design Patterns
+  **[⬆ back to top](#table-of-contents)**
+
+###### Design Patterns
 
   - [JavaScript Patterns (Minko Gechev)](http://blog.mgechev.com/slides/javascript-patterns/#1)
   - [Scalable JavaScript Design Patterns (Addy Osmani)](https://speakerdeck.com/addyosmani/scalable-javascript-design-patterns)
   - [Patterns of Large-Scale JavaScript Applications (Kim Joar Bekkelund)](https://speakerdeck.com/kimjoar/patterns-of-large-scale-javascript-applications-1)
   - [Non-blocking Javascript Patterns (George White)](https://speakerdeck.com/stonehippo/non-blocking-javascript-patterns)
 
-### Modular Javascript
+  **[⬆ back to top](#table-of-contents)**
+
+###### Modular Javascript
 
   - [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
   - [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
   - [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
+
+  **[⬆ back to top](#table-of-contents)**
 
 ## Articles
 
@@ -55,3 +61,5 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Remo Brunschwiler](https://twitter.com/brunschgi)
   - [Kim Joar Bekkelund](https://twitter.com/kimjoar)
   - [Eduardo Shiotta](https://twitter.com/shiota)
+
+  **[⬆ back to top](#table-of-contents)**
