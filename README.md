@@ -60,9 +60,25 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 
 ## Articles
 
+
 ## Courses
 
+  - [TutsPlus - Writing Modular JavaScript](https://tutsplus.com/tutorial/writing-modular-javascript)
+  - [HowTO - Organizando Javascritp](http://howtocode.com.br/cursos/organizando-javascript)  
+  - [TreinaWeb - Padrões de Projeto com Javascript](http://www.treinaweb.com.br/curso/javascript-padroes-de-projeto)
+
 ## Books
+
+  - [Learning JavaScript Design Patterns (Addy Osmani)](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  - [Patterns For Large-Scale JavaScript Application Architecture (Addy Osmani)](http://addyosmani.com/largescalejavascript/)
+  - [The Principles of Object-Oriented Javascript (Nicholas C. Zakas)](http://shop.oreilly.com/product/9781593275402.do)
+  - [Jasmine Javascript Testing (Paulo Rogonha)](http://shop.oreilly.com/product/9781782167204.do)
+  - [Object-Oriented Javascript, 2nd Edition - Stoyan Stefanov](http://shop.oreilly.com/product/9781849693127.do)
+  - [Functional Javascript (Michael Fogus)](http://shop.oreilly.com/product/0636920028857.do)
+  - [Maintainable JavaScript (Nicholas C. Zakas)](http://shop.oreilly.com/product/0636920025245.do)
+  - [Testable JavaScript (Mark Ethan Trostler)](http://shop.oreilly.com/product/0636920024699.do)
+  - [Speaking JavaScript (Axel Rauschmayer)](http://shop.oreilly.com/product/0636920029564.do)
+  - [High Performance JavaScript (Nicholas C. Zakas)](http://shop.oreilly.com/product/9780596802806.do)
 
 ## People to Follow
 
