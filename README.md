@@ -60,6 +60,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 
 ## Articles
 
+> TODO: Add my articles from chrome bookmarks
 
 ## Courses
 
