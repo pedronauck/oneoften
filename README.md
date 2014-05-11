@@ -65,7 +65,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 ## Courses
 
   - [TutsPlus - Writing Modular JavaScript](https://tutsplus.com/tutorial/writing-modular-javascript)
-  - [HowTO - Organizando Javascritp](http://howtocode.com.br/cursos/organizando-javascript)  
+  - [HowTo - Organizando Javascript](http://howtocode.com.br/cursos/organizando-javascript)  
   - [TreinaWeb - Padrões de Projeto com Javascript](http://www.treinaweb.com.br/curso/javascript-padroes-de-projeto)
 
 ## Books
