@@ -42,7 +42,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
 ###### Modular Javascript
 
   - [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
-  - [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
+  - [Modular Javascript (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
   - [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 
 **[⬆ back to top](#table-of-contents)**
@@ -73,7 +73,7 @@ This repository contains a list of tips, tricks, tutoriais, presentations and ma
   - [Learning JavaScript Design Patterns (Addy Osmani)](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [Patterns For Large-Scale JavaScript Application Architecture (Addy Osmani)](http://addyosmani.com/largescalejavascript/)
   - [The Principles of Object-Oriented Javascript (Nicholas C. Zakas)](http://shop.oreilly.com/product/9781593275402.do)
-  - [Jasmine Javascript Testing (Paulo Rogonha)](http://shop.oreilly.com/product/9781782167204.do)
+  - [Jasmine Javascript Testing (Paulo Ragonha)](http://shop.oreilly.com/product/9781782167204.do)
   - [Object-Oriented Javascript, 2nd Edition - Stoyan Stefanov](http://shop.oreilly.com/product/9781849693127.do)
   - [Functional Javascript (Michael Fogus)](http://shop.oreilly.com/product/0636920028857.do)
   - [Maintainable JavaScript (Nicholas C. Zakas)](http://shop.oreilly.com/product/0636920025245.do)
